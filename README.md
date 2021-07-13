@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @briannavargas
 - 👀 I’m interested in ... painting, traveling, exploring, blockchain, food!!!
 - 🌱 I’m currently learning about ... blockchain, SQL
-- 💞️ I’m looking to collaborate on ... research, project management
+- 💞️ I’m looking to collaborate on ... research, project management, data analytics
 - 📫 How to reach me ... briannavargas98@gmail.com
 
 <!---
